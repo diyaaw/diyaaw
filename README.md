@@ -23,7 +23,7 @@ I believe good code is both functional and elegant — and I’m always learning
 
 ---
 
-## Projects I’m proud of
+## Projects I've Built
 
 - [VitalGuard](https://github.com/diyaaw/Myvitalguard) — A web project focused on health monitoring.  
 - [Portfolio Website](https://your-portfolio-link.com) — My personal space to showcase my skills and projects.  
