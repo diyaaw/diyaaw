@@ -1,48 +1,83 @@
-# Hey there! 👋 I'm Diya
+# Hi, I'm Diya Wadhwa 👩‍💻
 
-I’m a web developer and problem solver who loves building clean, user-friendly websites and sharpening my coding skills through DSA challenges.  
-
-I believe good code is both functional and elegant — and I’m always learning something new to get better every day! 🚀
+ MERN Stack Developer | Aspiring Software Engineer
 
 ---
 
-## What I’m working on
+##About Me
 
-- Creating responsive and accessible web apps using HTML, CSS, JavaScript, and React.  
-- Practicing Data Structures and Algorithms to level up my problem-solving skills.  
-- Exploring new web technologies and tools to stay up-to-date with the latest trends.
-
----
-
-## Skills & Tools
-
-- **Languages:** JavaScript, HTML, CSS, C++  
-- **Frameworks/Libraries:** React  
-- **Concepts:** Data Structures & Algorithms, Responsive Design, UI/UX basics  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+* 🎓 B.Tech CSE @ Acropolis Institute of Technology & Research (CGPA: 8.07)
+* 💻 Passionate about building real-world, impactful applications
+* 🧠 Strong in **Data Structures & Algorithms, DBMS, and System Thinking**
+* 🌱 Currently exploring **Full Stack Development + AI Integration**
 
 ---
 
-## Projects I've Built
+## 🛠️ Tech Stack
 
-- [VitalGuard](https://github.com/diyaaw/Myvitalguard) — A web project focused on health monitoring.  
-- [Portfolio Website](https://your-portfolio-link.com) — My personal space to showcase my skills and projects.  
-- More projects coming soon — stay tuned!
+**Languages:**
+C++, JavaScript
 
----
+**Frontend:**
+React.js, Next.js, HTML, CSS
 
-## Outside of coding
+**Backend & Database:**
+Node.js, Express.js, MongoDB, MySQL
 
-When I’m not coding or solving problems, I love listening to music, watching tech talks, and planning trips to explore new places. Also, big fan of chai breaks! ☕️
-
----
-
-## Let’s connect!
-
-- 📫 Email: diyaaw@example.com  
-- 💼 LinkedIn: [diyaaw](https://linkedin.com/in/diyaaw)  
-- 🐦 Twitter: [@diyaaw](https://twitter.com/diyaaw)  
+**Tools:**
+Git, GitHub
 
 ---
 
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyaaw&show_icons=true&theme=radical)
+## 🚀 Projects
+
+### 🏥 LabVault – Digital Pathology & Lab Report Portal
+
+> A full-stack healthcare platform focused on digitizing and managing lab reports.
+
+* 📌 Solves the problem of fragmented, paper-based medical records
+* 🔐 Secure and centralized report storage system
+* 🤖 AI-driven insights to improve patient understanding
+* ⚙️ Built using MERN Stack
+
+---
+
+### 📜 Termify – AI Legal Risk Analyzer
+
+> Simplifies complex Terms of Service & Privacy Policies.
+
+* 📌 Breaks down lengthy legal documents into understandable segments
+* 🌐 Provides multilingual summaries
+* 🚦 AI-based risk detection using a traffic-light system
+* 🎯 Focused on improving user awareness and decision-making
+
+---
+
+## 🏆 Achievements
+
+* 🥇 1st Position – IEEE Research Paper Competition (District Level)
+* 💡 Participated in district & national level hackathons
+
+---
+
+
+---
+
+## 💼 Experience
+
+* 🌐 Web Developer @ Acropolis Blockchain Club (2024–2025)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [diya.wadhwa.dev@gmail.com](mailto:diya.wadhwa.dev@gmail.com)
+* 🔗 LinkedIn: (https://www.linkedin.com/in/diya-wadhwa-082189287/)
+
+
+---
+
+## ⚡ Fun Fact
+
+I love building projects that solve real problems and constantly push myself to learn, improve, and grow 🚀
+
