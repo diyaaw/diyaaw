@@ -71,8 +71,8 @@ Git, GitHub
 
 ## 📫 Connect With Me
 
-* 📧 Email: [diya.wadhwa.dev@gmail.com](mailto:diya.wadhwa.dev@gmail.com)
-* 🔗 LinkedIn: (https://www.linkedin.com/in/diya-wadhwa-082189287/)
+* 📧 Email: [diya.wadhwa24@gmail.com](mailto:diya.wadhwa24@gmail.com)
+* 🔗 LinkedIn: (https://www.linkedin.com/in/diyawadhwa)
 
 
 ---
